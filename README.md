@@ -1,6 +1,6 @@
 Markdown landuage Test
 
-[link](http://github.com)
+[Markdown HTML ](https://en.wikipedia.org/wiki/Markdown)
 ## This is <h2> title
 * item 1
 * itme 2
